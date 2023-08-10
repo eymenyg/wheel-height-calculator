@@ -2,7 +2,9 @@
 Basic and simple C++ terminal program for calculating automotive wheel height
 
 # Usage
-Compile and run the program. The program will ask user input for tire width, sidewall aspect ratio, and rim diameter in inches, then it will calculate the wheel height based on the user input.
+Compile and run the program.
+
+The program will ask user input for tire width, sidewall aspect ratio, and rim diameter in inches, then it will calculate the wheel height based on the user input. The program can also run with command line arguments.
 
 # Insight
 A common way of representing modern tire sizes is XXX / YY R ZZ, where

@@ -31,7 +31,7 @@ int main(int argc, char **argv) {
         }
     }
 
-    sidewallHeight = tireWidth * aspectRatio / 100;
+    sidewallHeight = tireWidth * aspectRatio * 0.01;
     rimDiaMM = rimDiameter * inToMm;
 
     totalHeight = 2 * sidewallHeight + rimDiaMM;
